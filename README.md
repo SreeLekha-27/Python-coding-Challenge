@@ -8,11 +8,6 @@ This repository is a **comprehensive Python practice guide** designed for beginn
 - Understand concepts through examples and outputs
 - Consolidated exercises include: BMI calculator, shopping cart, student grades tracker, contact directory, calculator app, and banking system
 
-## Purpose
-- Strengthen Python programming skills
-- Prepare for exams, interviews, and portfolio projects
-- Learn coding best practices and problem-solving techniques
-
 ## Session-wise Highlights
 
 ### Session 1: Introduction to Python
@@ -28,7 +23,7 @@ This repository is a **comprehensive Python practice guide** designed for beginn
 
 ### Session 4: Lists
 - Creation, indexing, slicing, methods (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`)
-- Handling duplicates and mutable nature
+- Handling duplicates and the mutable nature
 
 ### Session 5: Dictionary, Set & Frozen Set
 - Key-value operations, set operations (union, intersection, difference), frozenset
