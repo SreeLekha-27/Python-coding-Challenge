@@ -2,14 +2,7 @@
 
 This repository is a **comprehensive Python practice guide** designed for beginners and intermediate learners. It includes **10 structured sessions** covering Python fundamentals, data structures, loops, functions, and object-oriented programming (OOP), with **practice questions and example programs**.
 
-## Overview
-- Learn Python step-by-step in 10 sessions
-- Practice real-world programming problems
-- Understand concepts through examples and outputs
-- Consolidated exercises include: BMI calculator, shopping cart, student grades tracker, contact directory, calculator app, and banking system
-
-## Session-wise Highlights
-
+## Session-wise 
 ### Session 1: Introduction to Python
 - Basics, variables, data types, input/output, arithmetic operations
 
